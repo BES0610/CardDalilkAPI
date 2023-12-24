@@ -7,8 +7,8 @@
         },
         "LandMark" : "امام معهد الحصري",
         "Category" : {
-            "Category1" : "بقاله",
-            "Category2" : "اجبان"
+            "CategoryDeti" : "بقاله",
+            "CategoryDeti" : "اجبان"
         }
     },
     {
@@ -19,8 +19,8 @@
         },
         "LandMark" : "امام معهد الحصري",
         "Category" : {
-            "Category1" : "بقاله",
-            "Category2" : "اجبان"
+            "CategoryDeti" : "بقاله",
+            "CategoryDeti" : "اجبان"
         }
     }
 ]
