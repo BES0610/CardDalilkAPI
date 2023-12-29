@@ -9,7 +9,8 @@
         "Category": {
             "Category1": "بقاله",
             "Category2": "اجبان"
-        }
+        },
+        "rate" : 1
     },
     {
         "id": "2",
@@ -21,7 +22,8 @@
         "Category": {
             "Category1": "بقاله",
             "Category2": "اجبان"
-        }
+        },
+        "rate" : 2
     },
     {
         "id": "3",
@@ -31,9 +33,9 @@
         },
         "LandMark": "امام سنتر العربي من الخلف",
         "Category": {
-            "Category1": "جزاره",
-            "Category2": ""
-        }
+            "Category1": "جزاره"
+        },
+        "rate" : 3
     },
     {
         "id": "4",
@@ -43,9 +45,9 @@
         },
         "LandMark": "في سنتر العربي من الخلف",
         "Category": {
-            "Category1": "دواجن",
-            "Category2": ""
-        }
+            "Category1": "دواجن"
+        },
+        "rate" : 4
     },
     {
         "id": "5",
@@ -55,9 +57,9 @@
         },
         "LandMark": "امام سنتر العربي من الجانب",
         "Category": {
-            "Category1": "حلاقه",
-            "Category2": ""
-        }
+            "Category1": "حلاقه"
+        },
+        "rate" : 5
     },
     {
         "id": "6",
@@ -67,9 +69,9 @@
         },
         "LandMark": "امام كازيون ",
         "Category": {
-            "Category1": "صيدليه",
-            "Category2": ""
-        }
+            "Category1": "صيدليه"
+        },
+        "rate" : 5
     },
     {
         "id": "7",
@@ -81,7 +83,8 @@
         "Category": {
             "Category1": "حلواني",
             "Category2": "مخبوزات"
-        }
+        },
+        "rate" : 1
     },
     {
         "id": "8",
@@ -91,9 +94,9 @@
         },
         "LandMark": "في سنتر العربي",
         "Category": {
-            "Category1": "عطاره",
-            "Category2": ""
-        }
+            "Category1": "عطاره"
+        },
+        "rate" : 2
     },
     {
         "id": "9",
@@ -105,7 +108,8 @@
         "Category": {
             "Category1": "بقاله",
             "Category2": "جزاره"
-        }
+        },
+        "rate" : 3
     },
     {
         "id": "10",
@@ -115,9 +119,9 @@
         },
         "LandMark": "قريب من سلامه فرع الشيخ ذايد",
         "Category": {
-            "Category1": "عصائر",
-            "Category2": ""
-        }
+            "Category1": "عصائر"
+        },
+        "rate" : 4
     },
     {
         "id": "11",
@@ -127,9 +131,9 @@
         },
         "LandMark": "قريب من سلامه فرع الشيخ ذايد",
         "Category": {
-            "Category1": "عصائر",
-            "Category2": ""
-        }
+            "Category1": "عصائر"
+        },
+        "rate" : 5
     },
     {
         "id": "12",
@@ -139,9 +143,9 @@
         },
         "LandMark": "قريب من سلامه فرع الشيخ ذايد",
         "Category": {
-            "Category1": "حلويات",
-            "Category2": ""
-        }
+            "Category1": "حلويات"
+        },
+        "rate" : 1
     },
     {
         "id": "13",
@@ -153,7 +157,8 @@
         "Category": {
             "Category1": "فول و طعميه",
             "Category2": "بيتزا"
-        }
+        },
+        "rate" : 2
     },
     {
         "id": "14",
@@ -163,9 +168,9 @@
         },
         "LandMark": "قريب من سلامه فرع الشيخ ذايد",
         "Category": {
-            "Category1": "مترو",
-            "Category2": ""
-        }
+            "Category1": "مترو"
+        },
+        "rate" : 3
     },
     {
         "id": "15",
@@ -175,8 +180,8 @@
         },
         "LandMark": "قريب من سلامه فرع الشيخ ذايد",
         "Category": {
-            "Category1": "شرابات",
-            "Category2": ""
-        }
+            "Category1": "شرابات"
+        },
+        "rate" : 4
     }
 ]
